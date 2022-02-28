@@ -1,0 +1,11 @@
+.head-container {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.list-container {
+    max-width: 550px;
+    text-align: left;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
